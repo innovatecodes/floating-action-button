@@ -27,7 +27,7 @@ export class FloatingButton extends HTMLElement {
       max-width: 768px;
       margin: auto;
       height: 400px;
-      // Descomente a linha abaixo para que a altura do conteúdo seja dinânica
+      // Descomente a linha abaixo para que a altura do conteúdo seja dinâmica
       // height: max-content;
       box-shadow: 2px 2px 4px -1px rgba(0,0,0,0.21);
       background-color: #fafafa;
